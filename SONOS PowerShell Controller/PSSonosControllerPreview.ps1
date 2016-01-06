@@ -1,7 +1,7 @@
 ####################################################################################################################
 #
 #  Name: PSSonosControlerPreview.ps1
-#  Author: @SimonDettling (www.msitproblog.com)
+#  Author: @SimonDettling (msitproblog.com)
 #  Version: 0.1
 #  Disclaimer: This Script is not extensively tested and is a Preview of what's coming. Use at your own risk!
 #
