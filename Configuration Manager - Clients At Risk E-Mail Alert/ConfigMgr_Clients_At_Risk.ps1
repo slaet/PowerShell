@@ -2,7 +2,7 @@
 #
 #       File:   ConfigMgr_Clients_At_Risk.ps1
 #    Created:   2015-09-09
-#     Author:   @SimonDettling
+#     Author:   @SimonDettling (msitproblog.com)
 #    Version:	1.0.0
 #
 #########################################################################

@@ -13,7 +13,7 @@
     .\New-PHPSyntaxCheck.ps1 -Directory "C:\inetpub\wwwroot\website42" -PhpExe "C:\PHP\php.exe" -LogFile "C:\temp\PHP_SyntaxCheck.log"
 .NOTES
     Script name: New-PHPSyntaxCheck.ps1
-    Author:      Simon Dettling
+    Author:      @SimonDettling (msitproblog.com)
     DateCreated: 2015-12-04
 #>
 [CmdletBinding(SupportsShouldProcess=$true)]
